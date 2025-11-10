@@ -1,0 +1,3 @@
+Origin,Target,Type,Format
+"/i-am-the-origin-url","/i-am-the-target-url/","301","plain"
+"/i-am-the-example-origin-url","/i-am-an-exmple-target-url/","301","plain"
